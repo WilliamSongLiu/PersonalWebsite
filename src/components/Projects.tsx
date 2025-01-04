@@ -21,7 +21,7 @@ const projects: Project[] = [
   },
   {
     title: "StarCraft 2 Bot",
-    description: "Developed a reinforcement learning bot that discovers macro strategies in StarCraft 2 using SARSA. Through only 1 day of training against the in-game Hard AI, it improved its win rate by 6%.",
+    description: "Developed a reinforcement learning bot that discovers macro strategies in StarCraft 2 using SARSA. It improved its win rate by 6% after only 1 day of training against the in-game Hard AI.",
     image: "images/sc2.png",
     tags: ["AI", "Bot", "Python"],
     links: [
