@@ -32,7 +32,7 @@ const projects: Project[] = [
   {
     title: "League of Legends Bot",
     description: "Developed an CV bot that dodges skillshots in League of Legends using Segment Anything Model (SAM). Heuristic-based image segmentation allows the bot to run at 20 FPS and dodge skillshots in real time, surpassing traditional object detection techniques like YOLO.",
-    image: "/images/lol.png",
+    image: "images/lol.png",
     tags: ["AI", "Bot", "Python"],
     links: [
       { text: "Video", url: "https://youtu.be/zyk_REagx-4" }
@@ -41,21 +41,21 @@ const projects: Project[] = [
   {
     title: "LLM Jailbreaking Competitions",
     description: "Developed an automated LLM prompt optimization factory to discover jailbreaks in GPT-4o and Claude 3.5 Sonnet-based AI agents, winning over $20,000 in prizes.",
-    image: "/images/openai.png",
+    image: "images/openai.png",
     tags: ["AI", "LLM", "Prompt Engineering"],
     links: []
   },
   {
     title: "Visual Novel Generator",
     description: "Developed a visual novel that generates its story on-the-fly based on player choices, offering a first-of-its-kind experience with infinitely branching narratives. Everything from dialogue, choices, characters, imagery, and voiceovers are generated dynamically using AI.",
-    image: "/images/vn.png",
+    image: "images/vn.png",
     tags: ["AI", "LLM", "Unity", "C#"],
     links: []
   },
   {
     title: "Cloudy Paws",
     description: "Developed a puzzle game about a dog trying to find his way back to his owner.",
-    image: "/images/cloudy.png",
+    image: "images/cloudy.png",
     tags: ["Game Dev", "Unity", "C#"],
     links: [
       { text: "Play", url: "https://wliu.itch.io/cloudy-paws" }
@@ -64,7 +64,7 @@ const projects: Project[] = [
   {
     title: "Witch Simulator",
     description: "Developed a VR game where the player is a witch, brewing potions to fulfill her customer's orders.",
-    image: "/images/witch.png",
+    image: "images/witch.png",
     tags: ["Game Dev", "VR", "Unity", "C#"],
     links: [
       { text: "Video", url: "https://youtu.be/_FScZjSh7xo" }
@@ -73,7 +73,7 @@ const projects: Project[] = [
   {
     title: "DATALPHA",
     description: "Developed a data aggregator and analysis platform for NFT traders, beloved by thousands of users.",
-    image: "/images/datalpha.png",
+    image: "images/datalpha.png",
     tags: ["Web3", "React.js", "Express.js"],
     links: [
       { text: "Open Website", url: "https://datalpha.xyz/" }
@@ -82,14 +82,14 @@ const projects: Project[] = [
   {
     title: "Discord Bots",
     description: "Developed Discord bots as a freelancer, providing moderation tools and games to over 50 Discord communities.",
-    image: "/images/discord.png",
+    image: "images/discord.png",
     tags: ["Bot", "Node.js"],
     links: []
   },
   {
     title: "Penetration Testing",
     description: "Discovered and reported 2 critical vulnerabilities in browser-based MMO Torn, earning $1,000 in bug bounties.",
-    image: "/images/torn.png",
+    image: "images/torn.png",
     tags: ["Penetration Testing", "PHP"],
     links: []
   },
