@@ -13,7 +13,7 @@ const projects: Project[] = [
   {
     title: "u/haikusbot",
     description: "Developed the #1 most popular Reddit bot of all time, with over 4.7 million karma and counting.",
-    image: "/images/haikusbot.png",
+    image: "images/haikusbot.png",
     tags: ["Bot", "Python"],
     links: [
       { text: "View on Reddit", url: "https://www.reddit.com/user/haikusbot/?sort=top" }
@@ -22,7 +22,7 @@ const projects: Project[] = [
   {
     title: "StarCraft 2 Bot",
     description: "Developed a reinforcement learning bot that discovers macro strategies in StarCraft 2 using SARSA. Through only 1 day of training against the in-game Hard AI, it improved its win rate by 6%.",
-    image: "/images/sc2.png",
+    image: "images/sc2.png",
     tags: ["AI", "Bot", "Python"],
     links: [
       { text: "GitHub", url: "https://github.com/WilliamSongLiu/CS238-SC2" },
