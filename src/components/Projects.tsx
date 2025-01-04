@@ -26,7 +26,7 @@ const projects: Project[] = [
     tags: ["AI", "Bot", "Python"],
     links: [
       { text: "GitHub", url: "https://github.com/WilliamSongLiu/CS238-SC2" },
-      { text: "Video", url: "https://youtu.be/mINvnPzEXkM" }
+      { text: "Video", url: "https://youtu.be/yBSRBRXVGvo" }
     ]
   },
   {
@@ -81,14 +81,14 @@ const projects: Project[] = [
   },
   {
     title: "Discord Bots",
-    description: "Developed Discord bots as a freelancer, providing moderation tools and games to over 50 Discord communities.",
+    description: "Developed Discord bots as a freelancer in high school, providing moderation tools and games to over 50 Discord communities.",
     image: "images/discord.png",
     tags: ["Bot", "Node.js"],
     links: []
   },
   {
     title: "Penetration Testing",
-    description: "Discovered and reported 2 critical vulnerabilities in browser-based MMO Torn, earning $1,000 in bug bounties.",
+    description: "Discovered and reported 2 critical vulnerabilities in browser-based MMO Torn, earning $1,000 in bug bounties in high school.",
     image: "images/torn.png",
     tags: ["Penetration Testing", "PHP"],
     links: []

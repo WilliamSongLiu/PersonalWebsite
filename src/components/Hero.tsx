@@ -131,7 +131,7 @@ const Hero: FC = () => {
         <div className="hero-text">
           <h1>Hi, I'm William</h1>
           <p>
-            As a Stanford MS &amp; BS student in Computer Science with a specialization in Artificial Intelligence graduating in spring 2025, my passion lies in AI agents and innovative games. My skills span game development, reinforcement learning bots, full-stack web development, VR/AR, and blockchain projects.
+            As a Stanford MS &amp; BS student in Computer Science with a specialization in Artificial Intelligence graduating in spring 2025, my passion lies in AI agents and innovative games. My skills span artificial intelligence, full-stack web development, game development, VR/AR, and blockchain.
           </p>
         </div>
       </div>
