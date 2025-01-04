@@ -131,13 +131,7 @@ const Hero: FC = () => {
         <div className="hero-text">
           <h1>Hi, I'm William</h1>
           <p>
-            I'm a student in Stanford's class of 2021, pursuing both B.S. and M.S. in Computer Science
-            on the Artificial Intelligence Track. I'll be graduating with both degrees this year in
-            spring of 2025.
-          </p>
-          <p>
-            I love to work on projects in AI, botting, game development,
-            Web3, and XR.
+            As a Stanford MS &amp; BS student in Computer Science with a specialization in Artificial Intelligence graduating in spring 2025, my passion lies in AI agents and innovative games. My skills span game development, reinforcement learning bots, full-stack web development, VR/AR, and blockchain projects.
           </p>
         </div>
       </div>
