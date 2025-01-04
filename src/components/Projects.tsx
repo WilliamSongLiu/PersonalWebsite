@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import '../styles/Projects.css';
 
 interface Project {
